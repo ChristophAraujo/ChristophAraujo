@@ -1,6 +1,6 @@
 - 👋 olá, sou Christoph Araujo
 - 👀 Tenho interesse em Progamação para jogos e apps
-- 🌱 Atualmente estudo o campo de c++ e c# para jogos, Python para apps
+- 🌱 Atualmente estudo o campo de QA e Python + Javacript
 - 💞️ estou procurando colaborar para criar códigos com mais fluidez e agilidade em processamento
 - 📫 Me encontre no linkedin = https://www.linkedin.com/in/christoph-de-lima-almeida-araujo-b3715327a/
 
